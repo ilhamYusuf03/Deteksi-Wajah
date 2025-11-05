@@ -20,8 +20,40 @@ Program akan menangkap wajah melalui kamera laptop/webcam dan menandainya menggu
 
 ---
 
-| Teknologi | 
-|------------|------------|
+## TechStack
+
 | 🐍 **Python** | Bahasa pemrograman utama proyek |
 | 👁 **OpenCV** | Library untuk deteksi wajah dan pengolahan citra |
 | 💻 **Virtual Environment** | Untuk memisahkan dependensi proyek |
+
+## ⚙️ Cara Menjalankan
+
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/ilhamYusuf03/Deteksi-Wajah.git
+   cd Deteksi-Wajah
+2. **Create Virtual Enviroment**
+   ```bash
+   python -m venv venv
+4. **Aktikan environment**
+    ```bash
+   venv\Scripts\activate
+6. **Install Depedensi**
+    ```bash
+   pip install -r requirement.txt
+8. **Jalankan**
+   ```bash
+   python main.py
+
+🪪 Lisensi
+
+Proyek ini dirilis di bawah lisensi MIT License.
+Kamu bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini untuk keperluan pembelajaran atau pengembangan.
+
+💬 Dukungan
+
+⭐ Berikan bintang (Star) di repositori ini jika menurutmu proyek ini bermanfaat!
+Silakan buka Issues jika kamu menemukan bug atau ingin berkontribusi pada pengembangannya.
+
+
+
