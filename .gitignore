@@ -1,0 +1,8 @@
+# Abaikan virtual environment
+face_detectionr_venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
